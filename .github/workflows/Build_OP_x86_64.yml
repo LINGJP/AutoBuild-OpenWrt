@@ -7,6 +7,8 @@
 
 name: Build_x86_64 
 
+]:/p!Md-;G&sQ/i#:#;?#mWEFm[}|R|~GRzHZDf$\vZ}RL'Q
+
 on: 
   release:
     types: [published]
